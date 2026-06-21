@@ -5,18 +5,27 @@ Analyze air quality trends across Delhi locations and identify the impact of wea
 # Tools Used
 
 -Python
+
 -Pandas
+
 -NumPy
+
 -Matplotlib
+
 -Seaborn
+
 -Power BI
 
 # Workflow
 
 -Data Cleaning
+
 -Outlier Treatment
+
 -Feature Engineering
+
 -Exploratory Data Analysis
+
 -Dashboard Creation
 
 # Key Insights
@@ -30,5 +39,7 @@ Analyze air quality trends across Delhi locations and identify the impact of wea
 # Files
 
 -Notebook
+
 -Cleaned Dataset
+
 -Power BI Dashboard
